@@ -5,7 +5,7 @@ and a packet sniffer  (for now).
 
 Started working on it: April 26, 2015
 
-**Current Verision: **  v0.1 ALPHA
+**Current Verision:**     v0.1 ALPHA
 
 **Description**
 
