@@ -1,0 +1,8 @@
+c:\users\holo\documents\visual studio 2013\Projects\Auriga\Auriga\bin\Release\Auriga.exe.config
+c:\users\holo\documents\visual studio 2013\Projects\Auriga\Auriga\bin\Release\Auriga.exe
+c:\users\holo\documents\visual studio 2013\Projects\Auriga\Auriga\bin\Release\Auriga.pdb
+c:\users\holo\documents\visual studio 2013\Projects\Auriga\Auriga\obj\Release\Auriga.Form1.resources
+c:\users\holo\documents\visual studio 2013\Projects\Auriga\Auriga\obj\Release\Auriga.Properties.Resources.resources
+c:\users\holo\documents\visual studio 2013\Projects\Auriga\Auriga\obj\Release\Auriga.csproj.GenerateResource.Cache
+c:\users\holo\documents\visual studio 2013\Projects\Auriga\Auriga\obj\Release\Auriga.exe
+c:\users\holo\documents\visual studio 2013\Projects\Auriga\Auriga\obj\Release\Auriga.pdb

@@ -1,0 +1,9 @@
+c:\users\holo\documents\visual studio 2013\Projects\Auriga\Auriga\bin\Debug\Auriga.exe.config
+c:\users\holo\documents\visual studio 2013\Projects\Auriga\Auriga\bin\Debug\Auriga.exe
+c:\users\holo\documents\visual studio 2013\Projects\Auriga\Auriga\bin\Debug\Auriga.pdb
+c:\users\holo\documents\visual studio 2013\Projects\Auriga\Auriga\obj\Debug\Auriga.Form1.resources
+c:\users\holo\documents\visual studio 2013\Projects\Auriga\Auriga\obj\Debug\Auriga.Properties.Resources.resources
+c:\users\holo\documents\visual studio 2013\Projects\Auriga\Auriga\obj\Debug\Auriga.csproj.GenerateResource.Cache
+c:\users\holo\documents\visual studio 2013\Projects\Auriga\Auriga\obj\Debug\Auriga.exe
+c:\users\holo\documents\visual studio 2013\Projects\Auriga\Auriga\obj\Debug\Auriga.pdb
+c:\users\holo\documents\visual studio 2013\Projects\Auriga\Auriga\obj\Debug\Auriga.csprojResolveAssemblyReference.cache
