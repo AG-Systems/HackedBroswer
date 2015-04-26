@@ -41,10 +41,11 @@ These specific features
 	
 	Option of using a keyboard as a mouse
 	
-	  Hiding the url bar and other things that you do not want to see
+	 Hiding the url bar and other things that you do not want to see
   
  **Hacking tools included**
-  Currently:
+ 
+ Currently:
  Keylogger
   Sniffer
   
